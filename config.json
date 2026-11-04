@@ -1,0 +1,33 @@
+{
+  "owner": "dgxeonhozoomd",
+  "developer": "dgxeonhozoomd",
+  "version": "3.0.0",
+  "update": "2026-11-04",
+  "accounts": [
+    {
+      "label": "cokei_1",
+      "cookie": "sessionid=99c4f436963515fbad3dd8e9813123e2; sessionid_ss=99c4f436963515fbad3dd8e9813123e2; sid_tt=99c4f436963515fbad3dd8e9813123e2; uid_tt=e214c0656c10b7316c66be408ea77f0249bd7a7aae5fd26d14fd71355e60fca4; uid_tt_ss=e214c0656c10b7316c66be408ea77f0249bd7a7aae5fd26d14fd71355e60fca4; ttwid=1%7C4kK1vthMf_DIyfnxJqtuSrptHpgj8HDKHTyuUs568xg%7C1793764284%7Ca0122e3eb11d41dfc9ee486496a98473a5049a7fb0c3f268bfdf8082420a0246; msToken=PBdI7knAmu-fKaSTKX5OuKTNa0qpCGKtVxMFS19n4WNI4MJye_SdAEhuCIs3qJCwaFy6RxvVVHScU2by70vezLXuXKXilyIZheD-_pXCDBxet55O0OYOa-C4pyw7ryWPL6atSrf9Fa-25HFkFV7DxZVc4QKrMflLQz3yCcKr-kr7; tt_csrf_token=kUwNtcBQ-Os3x2m8Ason4fk7zyPU6uvA7F8M; d_ticket=befc0f4bf73b0638ab524eacc8ae489c76250; cmpl_token=AgQYAPOg_hfkTtK6fTt6xfFdOPCL7Y9mCz-iE2CrtXM"
+    },
+    {
+      "label": "cokei_2",
+      "cookie": "sessionid=2e5c905c4cd052f7f3fd52913c7a240f; sessionid_ss=2e5c905c4cd052f7f3fd52913c7a240f; sid_tt=2e5c905c4cd052f7f3fd52913c7a240f; uid_tt=7d11a2fa8d29035752b27243f9ddb0bc; uid_tt_ss=7d11a2fa8d29035752b27243f9ddb0bc; ttwid=1%7C4kK1vthMf_DIyfnxJqtuSrptHpgj8HDKHTyuUs568xg%7C1793767849%7C5e2d911ce8885dc9b4612a9ce0bd4a8e3b54b0e2712cdf05c523eb2d41606579; msToken=f9Uu4ZSk5FvDygsIUdRWipxQ_oMA1a1YPP-EILQmFomgjtr0RFEJ7aolltUQuwoP233G_Id2AxCybgZ2ndwS6Neyg4AufzwO3Ke4MNRzIiBbVa7CpqPzARhJonCYsevXoDopsE9dhnBwJX2D6D9DJDTh52rw2zynaufllPud5PX-; tt_csrf_token=kUwNtcBQ-Os3x2m8Ason4fk7zyPU6uvA7F8M; d_ticket=befc0f4bf73b0638ab524eacc8ae489c76250"
+    }
+  ],
+  "reportReasons": [
+    "Hate Speech",
+    "Harassment",
+    "Violence",
+    "Spam",
+    "Fake Account",
+    "Underage",
+    "Drugs",
+    "Weapons",
+    "Suicide",
+    "Terrorism",
+    "Nudity",
+    "Sexual Content",
+    "Minor Safety",
+    "Animal Cruelty",
+    "Dangerous Acts"
+  ]
+}
